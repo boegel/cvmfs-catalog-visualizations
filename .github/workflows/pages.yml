@@ -54,6 +54,7 @@ jobs:
           - sft-nightlies.cern.ch
           - ship.cern.ch
           - sndlhc.cern.ch
+          - software.eessi.io
           - sw.hsf.org
           - sw-nightlies.hsf.org
           - unpacked.cern.ch
